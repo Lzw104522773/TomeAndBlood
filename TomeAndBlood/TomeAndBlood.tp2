@@ -33,6 +33,11 @@ LANGUAGE ~French~ ~french~
 		~TomeAndBlood/lang/english/setup.tra~ 
 		~TomeAndBlood/lang/french/setup.tra~
 
+LANGUAGE ~Simplified Chinese (translation: Lewis Liu)~ 
+                ~schinese~
+		~TomeAndBlood/lang/english/setup.tra~ 
+		~TomeAndBlood/lang/schinese/setup.tra~
+
 
 // -----------------------------
 // 20: REVISED DRAGON DISCIPLES
